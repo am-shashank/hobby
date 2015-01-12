@@ -101,7 +101,6 @@ public class StampDispenser
     	System.out.println("min: "+min);
         return min;
     }
-    
     public static void main(String[] args)
     {
         int[] denominations = { 90, 30, 24, 10, 6, 2, 1 };
